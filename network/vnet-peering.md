@@ -25,3 +25,10 @@ Connectivity:
 - Connected
 
 The peering isn't successfully established until the peering status for both virtual network peerings is Connected.
+
+## Diffs
+If using CLI or PowerShell, you need to establish peering in both directions. In the Portla n
+
+## Cross-subscription
+You can connect VNets from diff subs. If you don't have both subs in the same Azure AD tenant, you must ask 
+each administrator to give to the other administrator the **Network Contributor** role.

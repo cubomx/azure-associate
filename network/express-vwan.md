@@ -3,7 +3,8 @@
 ## [ExpressRoute](https://learn.microsoft.com/en-us/training/modules/configure-expressroute-virtual-wan/2-determine-expressroute-uses)
 Extend your on-premises networks into the Microsoft cloud via a connectivity provider. Don't go 
 through the public internet (private connection). ExpressRoute is best for handling 
-enterprise-class and mission-critical workloads. Works with an approved connectivity provider.
+enterprise-class and mission-critical workloads. Dedicated, private connection. Works with an approved 
+connectivity provider.
 - \+ reliability (bandwidths up to 100 Gbps)
 - Faster speeds
 - Lower latencies
